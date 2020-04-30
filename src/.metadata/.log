@@ -1,0 +1,30 @@
+!SESSION 2016-07-22 16:51:52.215 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.7.0_80
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_CA
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.osgi 2 1 2016-07-22 16:52:16.143
+!MESSAGE NLS unused message: ConvertTargetAction_No_Converter in: org.eclipse.cdt.managedbuilder.internal.ui.Messages
+
+!ENTRY org.eclipse.core.resources 4 77 2016-07-22 16:52:27.157
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2016-07-22 16:52:27.157
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2016-07-22 16:52:27.157
+!MESSAGE /u6/sachen/Desktop/workspace/cs246project overlaps the workspace location: /u6/sachen/Desktop/workspace/cs246project
+
+!ENTRY org.eclipse.core.resources 4 77 2016-07-22 16:53:09.682
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2016-07-22 16:53:09.682
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2016-07-22 16:53:09.682
+!MESSAGE /u6/sachen/Desktop/workspace/cs246project overlaps the workspace location: /u6/sachen/Desktop/workspace/cs246project
+
+!ENTRY org.eclipse.core.resources 4 77 2016-07-22 16:53:25.648
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2016-07-22 16:53:25.648
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2016-07-22 16:53:25.648
+!MESSAGE /u6/sachen/Desktop/workspace/cs246project overlaps the workspace location: /u6/sachen/Desktop/workspace/cs246project

@@ -1,0 +1,49 @@
+game human human
+setup
++ r a8
++ n b8
++ b c8
++ q d8
++ k e8
++ b f8
++ n g8
++ r h8
++ p a7
++ p b7
++ p c7
++ p d7
++ p e7
++ p f7
++ p g7
++ p h7
++ P a2
++ P b2
++ P c2
++ P d2
++ P e2
++ P f2
++ P g2
++ P h2
++ R a1
++ N b1
++ B c1
++ Q d1
++ K e1
++ B f1
++ N g1
++ R h1
+= white
+done
+move a2 a4
+move h7 h6
+move a4 a5
+move h6 h5
+move a5 a6
+move h5 h4
+move a6 b7
+move h4 h3
+move b7 c8 q
+move h8 h5
+move c8 d8
+move h5 h4
+move e8 d8

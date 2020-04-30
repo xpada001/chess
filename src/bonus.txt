@@ -1,0 +1,4 @@
+Extra feature:
+We can let human player undo till the beginning of the game. 
+
+command: undo
